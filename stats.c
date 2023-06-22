@@ -27,6 +27,14 @@
 /* Size of the Data Set */
 #define SIZE (40)
 
+void print_array(unsigned char list[]);
+void sort_array(unsigned char list[]);
+void print_statistics(unsigned char list[]);
+float find_median(unsigned char list[]);
+float find_mean(unsigned char list[]);
+float find_maximum(unsigned char list[]);
+float find_minimum(unsigned char list[]);
+
 void main() {
 
   unsigned char test[SIZE] = { 34, 201, 190, 154,   8, 194,   2,   6,
@@ -41,3 +49,21 @@ void main() {
 }
 
 /* Add other Implementation File Code Here */
+
+void print_array(unsigned char list[]) {
+}
+void sort_array(unsigned char list[]){
+}
+void print_statistics(unsigned char list[]){
+}
+float find_median(unsigned char list[]){
+}
+float find_mean(unsigned char list[]){
+}
+float find_maximum(unsigned char list[]){
+}
+float find_minimum(unsigned char list[]);{
+}
+
+
+
